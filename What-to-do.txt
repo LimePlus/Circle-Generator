@@ -1,0 +1,1 @@
+Just put the script on an object with a mesh filter and a mesh renderer and you will get a circle.
